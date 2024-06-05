@@ -29,7 +29,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "babel-core": "^6.0.0",
-    "babel-plugin-istanbul": "^3.0.0",
+    "babel-plugin-istanbul": "^5.0.1",
     "babel-preset-jest": "^18.0.0"
   },
   "deprecated": false,
