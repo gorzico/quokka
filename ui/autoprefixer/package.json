@@ -484,7 +484,7 @@
     "caniuse-db": "^1.0.30000618",
     "normalize-range": "^0.1.2",
     "num2fraction": "^1.2.2",
-    "postcss": "^5.2.11",
+    "postcss": "^6.0.4",
     "postcss-value-parser": "^3.2.3"
   },
   "deprecated": false,
